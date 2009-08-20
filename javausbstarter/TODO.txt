@@ -1,0 +1,10 @@
+- Tags (until 1.0 Release)
+	-Objects finished
+	-Panel !
+- Edit existing entry's (until 2.0 Release)
+- showOnly(int mode...) (until 1.... Release)
+- SystemInfo (no priority)
+- PlugIns (until 3.0 Release) 
+	- load from *.jar
+	- disable enable
+- Interface ListObject (no priority)

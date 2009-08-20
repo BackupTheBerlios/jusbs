@@ -1,0 +1,1 @@
+Methane;Programme\methane147_win32.exe;Application

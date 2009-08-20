@@ -1,0 +1,9 @@
+Forestle;http://uk.forestle.org/search.php?q=POST
+Bing;http://www.bing.com/search?q=POST
+Wikipedia (en);http://en.wikipedia.org/w/index.php?title=Special%3ASearch&search=POST
+Ask.com;http://www.ask.com/web?q=POST
+Creative Commons;http://search.creativecommons.org/?q=POST
+Amazon;http://www.amazon.com/s/ref=nb_ss_gw?url=search-alias%3Daps&field-keywords=POST
+Ebay;http://shop.ebay.com/?_from=R40&_trksid=p3907.m38.l1313&_nkw=POST
+Wikimedia Commons;http://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=POST
+Yahoo;http://search.yahoo.com/search?p=POST

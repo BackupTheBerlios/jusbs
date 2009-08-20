@@ -1,0 +1,1 @@
+To install the JavaUSBStarter unzip him, to the root dictionary of your memory stick.
